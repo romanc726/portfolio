@@ -17,3 +17,9 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MY_PROJECTS_212 }}'
           channelId: live
           projectId: my-projects-212
+          EXTRA_ARGS: '--only hosting:romanc-pro'
+          MULTI_SITES_CONFIG: >
+              [{
+                "TARGET": "romanc-pro",
+                "RESOURCE": "romanc-pro"
+              }]
