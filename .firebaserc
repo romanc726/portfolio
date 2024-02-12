@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "my-projects-212"
+  },
+  "targets": {
+    "my-projects-212": {
+      "hosting": {
+        "romanc-pro": [
+          "romanc-pro"
+        ]
+      }
+    }
+  }
+}
