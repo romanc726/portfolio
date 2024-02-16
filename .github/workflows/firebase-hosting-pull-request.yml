@@ -13,5 +13,5 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MY_PROJECTS_212 }}'
-          projectId: my-projects-212
-          target: romanc-pro
+          projectId: romanc-d9176
+          target: romanc726

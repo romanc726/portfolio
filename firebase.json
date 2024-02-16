@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "romanc-pro",
+      "target": "romanc726",
       "public": "public",
       "ignore": [
         "firebase.json",

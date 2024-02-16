@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "my-projects-212"
+    "default": "romanc-d9176"
   },
   "targets": {
-    "my-projects-212": {
+    "romanc-d9176": {
       "hosting": {
-        "romanc-pro": [
-          "romanc-pro"
+        "romanc726": [
+          "romanc726"
         ]
       }
     }
